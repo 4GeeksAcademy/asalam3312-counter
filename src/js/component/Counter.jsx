@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState } from 'react'
-import './icons.js';
+/* import './icons.js'; // arroja error al tratar de agregarlo */
 import './counter.css';
 
 const Counter = () => {

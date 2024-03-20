@@ -6,7 +6,7 @@ import Counter from "./Counter";
 //create your first component
 const Home = () => {
 	return (
-		<div className="d-flex d-flex justify-content-center bg-dark text-white p-2">
+		<div id="father" className="d-flex d-flex justify-content-center text-white p-2">
 			<Counter />
 		</div>
 	);

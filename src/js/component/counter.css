@@ -4,4 +4,12 @@ p{
     border: aliceblue;
     margin: auto;
     font-size: 190px;
+    font-weight:bold;
+    background: rgb(20, 20, 20);
+}
+
+#father{
+    background: black;
+    margin: auto;
+    width: 40%;
 }
